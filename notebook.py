@@ -58,7 +58,7 @@ def black_bg():
 
 
 root = tkinter.Tk()
-root.title("  ")
+root.title("github.com/Xiinap/")
 
 root.minsize(width=500, height=500)
 root.maxsize(width=500, height=500)
